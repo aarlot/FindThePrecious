@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+   <meta charset="utf-8">
+   <title>FindThePrecious.com</title>
+   <meta name="keywords" content="find the precious,ring,Sauron,Join Mordor Army">
+   <meta name="description" content="Join Our Mordor Army and become one of our best hunters !">
+</head>
+  
+<body>
+  <header>
+    <nav>
+      <a href="http://findtheprecious.com" id="logo">Findtheprecious.com</a>
+      <ul>
+        <li><a href="#fellows">Fellows</a></li>
+        <li><a href="#ring">The Ring</a></li>
+        <li><a href="#reward">Get my reward</a></li>
+        <li><a href="#hunters">Best hunters</a></li>
+        <li><a href="#jointhearmy">Join the army</a></li>
+        <li><a href="#contact">Contact us</a></li>
+      </ul>
+    </nav>
+
+    <div id="carousel">
+      <h1>Dangerous fellowship try to destroy the ring</h1>  
+      <p>Orcs, Goblins, Balrogs, protect your master Sauron !</p>
+    </div>  
+  </header>
+    
+    <section id="fellows">
+      <span id="maintitle">Fellows wanted dead</span><span id="caption">(or alive if you want to eat them later)</span>
+        <nav>
+          <ul>
+            <li><a href="">Most Wanted</a></li>
+            <li><a href="">Most Dangerous</a></li>
+            <li><a href="">Already Captured</a></li>
+          </ul>
+        </nav>
+
+      <article class="mostwanted">
+        <img src="https://via.placeholder.com/200x140" alt="The Wizard" />
+        <h3>The Wizard</h3>
+        <p>Small description...</p>
+        <p class="reward">Reward 1000 gold coins</p>
+      </article>
+
+      <article class="mostwanted">
+        <img src="https://via.placeholder.com/200x140" alt="Hobbit #3" />
+        <h3>Hobbit #3</h3>
+        <p>Small description...</p>
+        <p class="dead">DEAD</p>
+      </article>
+
+      <article class="mostwanted">
+        <img src="https://via.placeholder.com/200x140" alt="Yummy Dwarf" />
+        <h3>Yummy Dwarf</h3>
+        <p>Small description...</p>
+        <p class="reward">Reward 250 gold coins</p>
+       </article>
+    </section>
+
+    <section id="reward">
+      <article>
+        <h2>I have captured one of them, how to get my reward ?</h2>
+        <img src="https://via.placeholder.com/140" alt="Here's how to get your reward" />
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non pharetra elit. Integer fringilla mi vel urna dapibus, vitae egestas purus condimentum. Etiam posuere tempus libero sit amet iaculis. Pellentesque tempor sem tempor condimentum congue. Donec eget sapien facilisis, tincidunt orci ac, tincidunt tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+        <button>Contact Us</button>
+      </article>
+    </section>
+
+    <section id="hunters">
+      <article class="huntprofile">
+        <img src="https://via.placeholder.com/70" alt="profilepic" />
+        <h3>ElvesKiller22</h3>
+        <p>2 captures - <a href="#">Profile</a><br />Like</p>
+      </article>
+
+      <article class="huntprofile">
+        <img src="https://via.placeholder.com/70" alt="profilepic" />
+        <h3>Goblin45</h3>
+        <p>2 captures - <a href="#">Profile</a><br />Like</p>
+      </article>
+    </section>
+
+    <section id="ring">
+      <h2>About the ring</h2>
+      <article class="awesomering">
+        <h3>Ring Capabilities</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Feature</th>
+              <th>Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Main</td>
+              <td>One ring to rules them all</td>
+            </tr>
+            <tr>
+              <td>Invisibility</td>
+              <td>You can't see me</td>
+            </tr>
+            <tr>
+              <td>Power</td>
+              <td>Destroy the world</td>
+            </tr>
+          </tbody>
+        </table>
+      </article>
+
+      <article class="awesomering">
+        <h3>Why the ring is awesome ?</h3>
+        <blockquote>My preciooooooussssss ! Hrk Hrk, we want our preeciooooouuusssss !!</blockquote>
+        <p>Gollum</p>
+        <img src="https://via.placeholder.com/110" alt="Gollum" />
+      </article> 
+    </section>
+
+    <section id="jointhearmy">
+      <h2>Join Mordor Army, we need you !</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non pharetra elit. Integer fringilla mi vel urna dapibus, vitae egestas purus condimentum. Etiam posuere tempus libero sit amet iaculis. Pellentesque tempor sem tempor condimentum congue. Donec eget sapien facilisis, tincidunt orci ac, tincidunt tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse semper imperdiet massa, sodales convallis est varius non. Phasellus tempor eget felis at aliquam.</p>
+      <button>More info on Sauronrulesthemall.com</button>
+    </section>
+
+    <section id="contact">
+      <form>
+        <input type="email" name="email">
+        <input type="text" name="name">
+        <datalist>
+          <option value="I have seen one of them"></option>
+          <option value="I have captured one of them"></option>
+          <option value="I want to join your army"></option>
+        </datalist>
+
+        <textarea name="message" placeholder="Your message"></textarea>
+
+      </form>
+    </section>  
+
+    <footer>
+      <article class="flex-container">
+        <div class="footlink">
+          <ul>
+            <li><a href="">About us</a></li>
+            <li><a href="#fellows">Fellows</a></li>
+            <li><a href="#jointhearmy">Join our army</a></li>
+          </ul>
+        </div>
+
+        <div class="footlink">
+          <ul>
+            <li><a href="">FAQ</a></li>
+            <li><a href="">Reward conditions</a></li>
+            <li><a href="">Legal mentions</a></li>
+          </ul>
+        </div>
+
+      <div class="footlink"></div>
+
+      <div class="footlink">
+        <ul>
+          <li><a href="">Sauron4ever.com</a></li>
+          <li><a href="">Follow him also on twitter</a></li>
+        </ul>
+      </div>
+    </article>
+</footer>
+
+</body>
+
+</html>
